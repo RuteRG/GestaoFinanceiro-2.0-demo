@@ -66,6 +66,8 @@ Clique no link abaixo e explore o sistema:
 
 👉 [Abrir o app no Streamlit](https://gestaofinanceiro-20-demo-2elibfrcrnmamccbgmham4.streamlit.app/)
 
+> ⚠️ Importante:
+Para garantir que os cálculos funcionem corretamente, registre primeiro suas despesas e depois adicione o saldo do mês.
 > Não é necessário instalar nada — basta acessar o link e testar!
 
 
@@ -73,5 +75,6 @@ Clique no link abaixo e explore o sistema:
 Feito com ❤️ por [RuteRG](https://github.com/RuteRG)🚀
 
 **Este projeto faz parte do meu portfólio pessoal e demonstra minha capacidade de transformar conceitos em aplicações funcionais.**
+
 
 
