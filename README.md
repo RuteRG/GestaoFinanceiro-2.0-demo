@@ -74,4 +74,3 @@ Feito com ❤️ por [RuteRG](https://github.com/RuteRG)🚀
 
 **Este projeto faz parte do meu portfólio pessoal e demonstra minha capacidade de transformar conceitos em aplicações funcionais.**
 
-
