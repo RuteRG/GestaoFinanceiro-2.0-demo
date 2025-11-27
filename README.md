@@ -64,7 +64,7 @@ Abaixo estão alguns exemplos para visualizar como funciona o sistema:
 O **Gestão Financeira 2.0** já está disponível para uso direto no navegador.  
 Clique no link abaixo e explore o sistema:
 
-👉 [Abrir o app no Streamlit](https://gestaofinanceira20-jclcgqziugop2nqetmr3fg.streamlit.app/)
+👉 [Abrir o app no Streamlit](https://gestaofinanceiro-20-demo-2elibfrcrnmamccbgmham4.streamlit.app/)
 
 > Não é necessário instalar nada — basta acessar o link e testar!
 
@@ -73,4 +73,5 @@ Clique no link abaixo e explore o sistema:
 Feito com ❤️ por [RuteRG](https://github.com/RuteRG)🚀
 
 **Este projeto faz parte do meu portfólio pessoal e demonstra minha capacidade de transformar conceitos em aplicações funcionais.**
+
 
